@@ -1,0 +1,15 @@
+Energy Analyzer Report
+Generated: 2025-12-11 07:55:20
+
+Billing days: 2
+Tariff (₹/kWh): 10.0
+
+Per-Device Daily Usage:
+Device                 Watts   Hours   Qty    kWh/day
+tv                       100     2.0     1      0.200
+fan                       28     2.0     1      0.056
+
+Total daily kWh: 0.256
+Monthly kWh   : 0.512
+Est. bill (₹) : 5.12
+Top device    : tv (0.200 kWh/day)
