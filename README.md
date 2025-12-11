@@ -1,6 +1,6 @@
-# Energy Analyzer
+# PowerMetrics
 
-**Energy Analyzer** is a lightweight Python CLI tool that helps users estimate their daily and monthly electricity consumption. The program collects device-level inputs such as rated watts, hours of usage, and quantity, then computes per-device kWh, total consumption, and an estimated monthly bill based on the chosen tariff.
+**PowerMetrics** is a lightweight Python CLI tool that helps users estimate their daily and monthly electricity consumption. The program collects device-level inputs such as rated watts, hours of usage, and quantity, then computes per-device kWh, total consumption, and an estimated monthly bill based on the chosen tariff.
 
 The output includes a clean terminal summary table and an auto-generated `energy_report.txt` file for offline reference. The script uses ANSI colors sparingly to keep the interface readable without looking automated or noisy.
 
